@@ -1,0 +1,19 @@
+body {
+    background-image: url(bg.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: black;
+    margin-top: 50px;
+}
+button {
+    margin-top: 50px;
+    padding: 10px;
+}
